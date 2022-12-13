@@ -12,7 +12,7 @@ This organization contains `code` for **NOT SAFE FOR WORK** mods for the video g
 >
 > This excludes project logo images (_generally used for Skyrim SkyUI Mod Configuration Menu config UI_).
 >
-> These logos may contain "**_visual and/or textual depictions in artistic [contexts]_**`. They are literally art logos for video game mods.
+> These logos may contain "**_visual and/or textual depictions in artistic [contexts]_**". (_They are **literally art** logos for video game mods._)
 >
 > Every README hides its content inside of a collapsible markdown block with a disclaimer per the GitHub recommendation:
 > - "_In some cases a disclaimer can help communicate the context of the project._"

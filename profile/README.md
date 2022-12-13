@@ -8,7 +8,7 @@ This organization contains `code` for **NOT SAFE FOR WORK** mods for the video g
 
 **No** "_Sexually Obscene Content_" is hosted in these repositories ( _per GitHub's [Acceptable Use Policy](https://docs.github.com/en/site-policy/acceptable-use-policies/github-sexually-obscene-content)_ )
 
-> If these mods require _images / graphics_, they will be stored in _private repositories_ to be as compliant as possible with GitHub's policies.
+> If mods require _images / graphics_, they will be stored in _private repositories_ to be as compliant as possible with GitHub's policies.
 >
 > This excludes project logo images (_generally used for Skyrim SkyUI Mod Configuration Menu config UI_).
 >

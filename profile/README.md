@@ -1,5 +1,7 @@
 # Devious Skyrim
 
+<details><summary>More info</summary>
+
 > ~ Code for NSFW Skyrim mods ~
 
 This organization contains `code` for **NOT SAFE FOR WORK** mods for the video game Skyrim.
@@ -28,3 +30,6 @@ Thanks for visiting!
 _Dear GitHub, please feel free to reach out if any content should be migrated either (a) off-site (b) into private repositories._
 
 _I wish to be compliant & also hope to help both new and advanced programmers learn from one another by sharing this code publicly!_
+
+
+</details>

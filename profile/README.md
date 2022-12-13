@@ -23,13 +23,12 @@ Thanks for visiting!
 
 ---
 
-**This code is hosted publicly as a resource for programmers to learn how to write code in C++ and the Papyrus scripting language.**
-
----
-
 _Dear GitHub, please feel free to reach out if any content should be migrated either (a) off-site (b) into private repositories._
 
 _I wish to be compliant & also hope to help both new and advanced programmers learn from one another by sharing this code publicly!_
 
-
 </details>
+
+---
+
+> **This organization's code is hosted publicly as a resource for programmers to learn C++ and the Papyrus scripting language.**
